@@ -7,3 +7,7 @@ Technologies: **Express.js, GPT-3.5 Turbo, Langchain, React.js**
 -	Integrated OpenAI's GPT-3.5 Turbo and Langchain to load, divide, store, retrieve, and output documents.
 -	Used a vector store to cache generated embeddings in memory for efficient retrieval.
 -	Integrated voice chat mode by integrating speech-to-text and text-to-speech technologies.
+
+Video Demo:
+
+https://drive.google.com/file/d/1tuDTCab9cEslLx4oqvgE-8ztXLBoEwUU/view?usp=sharing
